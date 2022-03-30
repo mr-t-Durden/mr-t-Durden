@@ -11,9 +11,9 @@ Completed Codecademy Web Development Skill Path.
 
 Some Portfolio-Projects (see code below):
 
-[Jammming](https://mr-t-durden.github.io/jammming/) - React single page web app for creating playlists using Spotify API
+[Jammming](https://mr-t-durden.github.io/jammming/) - React single page web app for creating playlists using Spotify API (Codecademy)
 
-[Tea Cozy](https://mr-t-durden.github.io/teacozy/) - Webside of a fictional tea shop 
+[Tea Cozy](https://mr-t-durden.github.io/teacozy/) - Webside of a fictional tea shop (Codecademy)
 
 📫 [LinkedIn](https://linkedin.com/in/FabianFietze)
 
