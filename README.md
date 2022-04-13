@@ -15,6 +15,8 @@ Some Portfolio-Projects (see code below):
 
 [Tea Cozy](https://mr-t-durden.github.io/teacozy/) - Webside of a fictional tea shop (Codecademy)
 
+[Maintenance Counter](https://mr-t-durden.github.io/maintenance-counter/) - React single page web app for tracking maintenance intervals of vehicles 
+
 📫 [LinkedIn](https://linkedin.com/in/FabianFietze)
 
 <!---
